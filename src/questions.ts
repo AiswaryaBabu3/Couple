@@ -25,7 +25,7 @@ export const QUESTIONS: Question[] = [
     type: 'date',
     question: 'When did we first met? 🗓️',
     placeholder: 'Select the date...',
-    hint: `Hint: It was a beautiful day around March 2026! (Try ${RELATIONSHIP_CONFIG.firstTalkDate} if you forgot 🤫)`,
+    hint: `Hint: It was a beautiful day around March 2026!)`,
     skipGrading: true,
     successMessage: 'A beautiful date that changed everything! 🗓️✨',
   },
