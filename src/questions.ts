@@ -61,7 +61,7 @@ export const QUESTIONS: Question[] = [
     type: 'choice',
     question: "What's my dream vacation? ✈️",
     options: ['Paris 🗼', 'Switzerland 🏔️', 'Ladakh 🏍️', 'Home with you 🏡'],
-    hint: 'The city of love! (Though home with you is a close second... 🥺)',
+    hint: 'Think about where I want to go! ✈️',
     skipGrading: true,
     successMessage: 'Paris! The city of love. ✈️🗼',
   },
